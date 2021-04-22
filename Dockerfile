@@ -1,1 +1,1 @@
-FROM renovate/renovate:24.117.0
+FROM renovate/renovate:24.117.0-slim
