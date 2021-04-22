@@ -1,3 +1,3 @@
 FROM renovate/renovate:24.117.0-slim
 
-# Dummy version: 3
+# Dummy version: 4
