@@ -1,3 +1,3 @@
-FROM renovate/renovate:24.117.0-slim
+FROM renovate/renovate:25.1.1-slim
 
 # Dummy version: 5
