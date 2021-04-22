@@ -1,0 +1,1 @@
+FROM renovate/renovate:24.117.0
